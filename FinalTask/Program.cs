@@ -33,7 +33,6 @@ string[] СharacterСounter(string[] array)
     return NewArray;
 }
 
-
 void PrintArray(string[] array)
 {
     for (int i = 0; i < array.Length; i++)
